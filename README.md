@@ -1,2 +1,3 @@
-# hello-word-
-just a start
+# hello-word
+只是一个开始
+2017年新的开始，新的方向！
